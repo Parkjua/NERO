@@ -35,7 +35,7 @@ li {
   display: none;
 }
 
-#log {
+/* #log {
   position: fixed;
   top: 0;
   left: 0;
@@ -46,7 +46,7 @@ li {
   text-align: center;
   line-height: 50px;
   z-index: 999;
-}
+} */
 
 /* 스크롤 css */
 html::-webkit-scrollbar {
